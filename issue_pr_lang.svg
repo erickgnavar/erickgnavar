@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.4442628634973" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="301.4442628634973" y="0" width="45.528713060472306" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="346.97297592396956" y="0" width="42.98863969079317" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="389.96161561476276" y="0" width="42.98751857557925" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="432.949134190342" y="0" width="18.68002169439179" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.6291558847338" y="0" width="4.7729611707432475" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="456.402117055477" y="0" width="1.9974536061402015" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="458.3995706616172" y="0" width="1.600429338382793" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.1723331747331" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="301.1723331747331" y="0" width="45.47748648042748" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="346.64981965516057" y="0" width="43.37385674326067" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="390.02367639842123" y="0" width="42.94986009253356" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="432.9735364909548" y="0" width="18.663170643928233" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.6367071348831" y="0" width="4.768655532834222" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="456.40536266771727" y="0" width="1.9956517243187373" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="458.4010143920361" y="0" width="1.598985607963971" height="8" fill="#5e5086"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -147,15 +147,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#6e4a7e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Elixir
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
