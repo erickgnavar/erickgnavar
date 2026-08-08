@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-labelledby="title">
+  <title id="title">Top repositories</title>
+  <style>
+    .background { fill: #ffffff; stroke: #d0d7de; }
+    .title { fill: #24292f; font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .label { fill: #24292f; font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .value { fill: #24292f; font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .muted { fill: #57606a; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .grid { stroke: #d8dee4; stroke-width: 1; }
+    .empty { fill: #ebedf0; }
+    .level-1 { fill: #9be9a8; }
+    .level-2 { fill: #40c463; }
+    .level-3 { fill: #30a14e; }
+    .level-4 { fill: #216e39; }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #0d1117; stroke: #30363d; }
+      .title, .label, .value { fill: #e6edf3; }
+      .muted { fill: #8b949e; }
+      .grid { stroke: #30363d; }
+      .empty { fill: #161b22; }
+      .level-1 { fill: #0e4429; }
+      .level-2 { fill: #006d32; }
+      .level-3 { fill: #26a641; }
+      .level-4 { fill: #39d353; }
+    }
+  </style>
+  <rect class="background" x="0.5" y="0.5" width="799" height="359" rx="10" />
+  <text class="title" x="28" y="38">Top repositories</text>
+  <circle cx="620" cy="32" r="5" fill="#2f81f7" />
+  <text class="muted" x="631" y="36">Stars</text>
+  <circle cx="695" cy="32" r="5" fill="#a855f7" />
+  <text class="muted" x="706" y="36">Forks</text>
+  <text class="label" x="28" y="87">flymake-ruff</text>
+  <rect class="empty" x="245" y="74" width="410" height="16" rx="4" />
+  <rect x="245" y="74" width="301.8" height="16" rx="4" fill="#2f81f7" />
+  <rect x="546.8" y="74" width="108.2" height="16" rx="4" fill="#a855f7" />
+  <text class="value" x="674" y="87">★ 53 ⑂ 19</text>
+  <text class="label" x="28" y="125">custom_download_file</text>
+  <rect class="empty" x="245" y="112" width="410" height="16" rx="4" />
+  <rect x="245" y="112" width="113.9" height="16" rx="4" fill="#2f81f7" />
+  <rect x="358.9" y="112" width="136.7" height="16" rx="4" fill="#a855f7" />
+  <text class="value" x="674" y="125">★ 20 ⑂ 24</text>
+  <text class="label" x="28" y="163">dotfiles</text>
+  <rect class="empty" x="245" y="150" width="410" height="16" rx="4" />
+  <rect x="245" y="150" width="142.4" height="16" rx="4" fill="#2f81f7" />
+  <rect x="387.4" y="150" width="5.7" height="16" rx="4" fill="#a855f7" />
+  <text class="value" x="674" y="163">★ 25 ⑂ 1</text>
+  <text class="label" x="28" y="201">cloak-mode</text>
+  <rect class="empty" x="245" y="188" width="410" height="16" rx="4" />
+  <rect x="245" y="188" width="119.6" height="16" rx="4" fill="#2f81f7" />
+  <rect x="364.6" y="188" width="5.7" height="16" rx="4" fill="#a855f7" />
+  <text class="value" x="674" y="201">★ 21 ⑂ 1</text>
+  <text class="label" x="28" y="239">flymake-sqlfluff</text>
+  <rect class="empty" x="245" y="226" width="410" height="16" rx="4" />
+  <rect x="245" y="226" width="91.1" height="16" rx="4" fill="#2f81f7" />
+  <rect x="336.1" y="226" width="22.8" height="16" rx="4" fill="#a855f7" />
+  <text class="value" x="674" y="239">★ 16 ⑂ 4</text>
+  <text class="label" x="28" y="277">odoo_dashboard</text>
+  <rect class="empty" x="245" y="264" width="410" height="16" rx="4" />
+  <rect x="245" y="264" width="28.5" height="16" rx="4" fill="#2f81f7" />
+  <rect x="273.5" y="264" width="39.9" height="16" rx="4" fill="#a855f7" />
+  <text class="value" x="674" y="277">★ 5 ⑂ 7</text>
+  <text class="label" x="28" y="315">evil-emacs-kickstart</text>
+  <rect class="empty" x="245" y="302" width="410" height="16" rx="4" />
+  <rect x="245" y="302" width="56.9" height="16" rx="4" fill="#2f81f7" />
+  <rect x="301.9" y="302" width="5.7" height="16" rx="4" fill="#a855f7" />
+  <text class="value" x="674" y="315">★ 10 ⑂ 1</text>
+</svg>
