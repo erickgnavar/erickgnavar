@@ -1,0 +1,59 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-stats
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check required token
+        env:
+          METRICS_SECRET: ${{ secrets.METRICS_SECRET }}
+        run: |
+          if [[ -z "$METRICS_SECRET" ]]; then
+            echo "The METRICS_SECRET repository secret is required."
+            exit 1
+          fi
+
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Check out stats generator
+        uses: actions/checkout@v4
+        with:
+          repository: erickgnavar/github-profile-readme-stats
+          path: stats-generator
+
+      - name: Update README and charts
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_SECRET }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          STATS_CHARTS_DIR: generated
+        run: ./stats-generator/update-readme.sh
+
+      - name: Commit changes
+        run: |
+          if [[ -z "$(git status --porcelain -- README.md generated)" ]]; then
+            echo "README stats are already current"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md generated
+          git commit -m "chore(profile): update README stats"
+          git push
