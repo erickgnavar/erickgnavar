@@ -11,13 +11,11 @@
 
 | Commits | Pull requests | Reviews | Issues |
 | ---: | ---: | ---: | ---: |
-| 2392 | 367 | 1122 | 0 |
+| 2393 | 367 | 1122 | 0 |
 
 **Languages:** JavaScript 58% · CSS 11% · Python 10% · Elixir 9% · HTML 4% · Emacs Lisp 1%
 
 ### Charts
-
-<img src="generated/contributions.svg" alt="Contribution activity chart" width="100%">
 
 <p>
   <img src="generated/languages.svg" alt="Language usage chart" width="49%">

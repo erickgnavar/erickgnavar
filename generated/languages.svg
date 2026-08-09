@@ -8,33 +8,25 @@
     .muted { fill: #57606a; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .grid { stroke: #d8dee4; stroke-width: 1; }
     .empty { fill: #ebedf0; }
-    .level-1 { fill: #9be9a8; }
-    .level-2 { fill: #40c463; }
-    .level-3 { fill: #30a14e; }
-    .level-4 { fill: #216e39; }
     @media (prefers-color-scheme: dark) {
       .background { fill: #0d1117; stroke: #30363d; }
       .title, .label, .value { fill: #e6edf3; }
       .muted { fill: #8b949e; }
       .grid { stroke: #30363d; }
       .empty { fill: #161b22; }
-      .level-1 { fill: #0e4429; }
-      .level-2 { fill: #006d32; }
-      .level-3 { fill: #26a641; }
-      .level-4 { fill: #39d353; }
     }
   </style>
   <rect class="background" x="0.5" y="0.5" width="799" height="359" rx="10" />
   <text class="title" x="28" y="38">Language usage trends</text>
   <text class="muted" x="772" y="38" text-anchor="end">30-day baseline collecting</text>
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#3178c6" stroke-width="30" stroke-dasharray="338.09 239.96" stroke-dashoffset="-0.00" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#a855f7" stroke-width="30" stroke-dasharray="67.55 510.50" stroke-dashoffset="-338.09" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="60.65 517.41" stroke-dashoffset="-405.64" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#f59e0b" stroke-width="30" stroke-dasharray="57.73 520.32" stroke-dashoffset="-466.29" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#ef4444" stroke-width="30" stroke-dasharray="26.69 551.36" stroke-dashoffset="-524.03" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#06b6d4" stroke-width="30" stroke-dasharray="7.48 570.57" stroke-dashoffset="-550.71" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#ec4899" stroke-width="30" stroke-dasharray="3.99 574.06" stroke-dashoffset="-558.20" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#64748b" stroke-width="30" stroke-dasharray="15.87 562.19" stroke-dashoffset="-562.19" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#3178c6" stroke-width="30" stroke-dasharray="337.96 240.10" stroke-dashoffset="-0.00" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#a855f7" stroke-width="30" stroke-dasharray="67.53 510.53" stroke-dashoffset="-337.96" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="60.85 517.20" stroke-dashoffset="-405.48" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#f59e0b" stroke-width="30" stroke-dasharray="57.71 520.34" stroke-dashoffset="-466.34" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#ef4444" stroke-width="30" stroke-dasharray="26.68 551.38" stroke-dashoffset="-524.05" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#06b6d4" stroke-width="30" stroke-dasharray="7.48 570.57" stroke-dashoffset="-550.73" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#ec4899" stroke-width="30" stroke-dasharray="3.99 574.06" stroke-dashoffset="-558.21" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#64748b" stroke-width="30" stroke-dasharray="15.86 562.19" stroke-dashoffset="-562.19" transform="rotate(-90 190 190)" />
   <circle class="background" cx="190" cy="190" r="66" stroke="none" />
   <text class="value" x="190" y="186" text-anchor="middle">Languages</text>
   <text class="muted" x="190" y="207" text-anchor="middle">8 shown</text>

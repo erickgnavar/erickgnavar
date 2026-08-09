@@ -8,20 +8,12 @@
     .muted { fill: #57606a; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .grid { stroke: #d8dee4; stroke-width: 1; }
     .empty { fill: #ebedf0; }
-    .level-1 { fill: #9be9a8; }
-    .level-2 { fill: #40c463; }
-    .level-3 { fill: #30a14e; }
-    .level-4 { fill: #216e39; }
     @media (prefers-color-scheme: dark) {
       .background { fill: #0d1117; stroke: #30363d; }
       .title, .label, .value { fill: #e6edf3; }
       .muted { fill: #8b949e; }
       .grid { stroke: #30363d; }
       .empty { fill: #161b22; }
-      .level-1 { fill: #0e4429; }
-      .level-2 { fill: #006d32; }
-      .level-3 { fill: #26a641; }
-      .level-4 { fill: #39d353; }
     }
   </style>
   <rect class="background" x="0.5" y="0.5" width="799" height="309" rx="10" />
@@ -60,7 +52,7 @@
   <rect x="660" y="70.0" width="34" height="190.0" rx="4" fill="#2f81f7"><title>2026-07: 686 contributions</title></rect>
   <text class="value" x="677.0" y="63.0" text-anchor="middle">686</text>
   <text class="muted" x="677.0" y="282" text-anchor="middle">Jul</text>
-  <rect x="719" y="214.0" width="34" height="46.0" rx="4" fill="#2f81f7"><title>2026-08: 166 contributions</title></rect>
-  <text class="value" x="736.0" y="207.0" text-anchor="middle">166</text>
+  <rect x="719" y="213.7" width="34" height="46.3" rx="4" fill="#2f81f7"><title>2026-08: 167 contributions</title></rect>
+  <text class="value" x="736.0" y="206.7" text-anchor="middle">167</text>
   <text class="muted" x="736.0" y="282" text-anchor="middle">Aug</text>
 </svg>

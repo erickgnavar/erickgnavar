@@ -8,20 +8,12 @@
     .muted { fill: #57606a; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .grid { stroke: #d8dee4; stroke-width: 1; }
     .empty { fill: #ebedf0; }
-    .level-1 { fill: #9be9a8; }
-    .level-2 { fill: #40c463; }
-    .level-3 { fill: #30a14e; }
-    .level-4 { fill: #216e39; }
     @media (prefers-color-scheme: dark) {
       .background { fill: #0d1117; stroke: #30363d; }
       .title, .label, .value { fill: #e6edf3; }
       .muted { fill: #8b949e; }
       .grid { stroke: #30363d; }
       .empty { fill: #161b22; }
-      .level-1 { fill: #0e4429; }
-      .level-2 { fill: #006d32; }
-      .level-3 { fill: #26a641; }
-      .level-4 { fill: #39d353; }
     }
   </style>
   <rect class="background" x="0.5" y="0.5" width="799" height="359" rx="10" />
