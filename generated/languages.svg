@@ -26,9 +26,9 @@
   </style>
   <rect class="background" x="0.5" y="0.5" width="799" height="359" rx="10" />
   <text class="title" x="28" y="38">Language usage</text>
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#3178c6" stroke-width="30" stroke-dasharray="338.09 239.97" stroke-dashoffset="-0.00" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#a855f7" stroke-width="30" stroke-dasharray="67.56 510.49" stroke-dashoffset="-338.09" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="60.65 517.41" stroke-dashoffset="-405.65" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#3178c6" stroke-width="30" stroke-dasharray="338.09 239.96" stroke-dashoffset="-0.00" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#a855f7" stroke-width="30" stroke-dasharray="67.55 510.50" stroke-dashoffset="-338.09" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="60.65 517.41" stroke-dashoffset="-405.64" transform="rotate(-90 190 190)" />
   <circle cx="190" cy="190" r="92" fill="none" stroke="#f59e0b" stroke-width="30" stroke-dasharray="57.73 520.32" stroke-dashoffset="-466.29" transform="rotate(-90 190 190)" />
   <circle cx="190" cy="190" r="92" fill="none" stroke="#ef4444" stroke-width="30" stroke-dasharray="26.69 551.36" stroke-dashoffset="-524.03" transform="rotate(-90 190 190)" />
   <circle cx="190" cy="190" r="92" fill="none" stroke="#06b6d4" stroke-width="30" stroke-dasharray="7.48 570.57" stroke-dashoffset="-550.71" transform="rotate(-90 190 190)" />
