@@ -11,18 +11,27 @@
 
 | Commits | Pull requests | Reviews | Issues |
 | ---: | ---: | ---: | ---: |
-| 2393 | 367 | 1122 | 0 |
+| 2394 | 367 | 1122 | 0 |
 
 **Languages:** JavaScript 58% · CSS 11% · Python 10% · Elixir 9% · HTML 4% · Emacs Lisp 1%
 
 ### Charts
 
 <p>
-  <img src="generated/languages.svg" alt="Language usage chart" width="49%">
-  <img src="generated/monthly-activity.svg" alt="Monthly contributions chart" width="49%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="generated/languages-dark.svg">
+    <img src="generated/languages.svg" alt="Language usage chart" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="generated/monthly-activity-dark.svg">
+    <img src="generated/monthly-activity.svg" alt="Monthly contributions chart" width="49%">
+  </picture>
 </p>
 
-<img src="generated/repositories.svg" alt="Top repositories chart" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="generated/repositories-dark.svg">
+  <img src="generated/repositories.svg" alt="Top repositories chart" width="100%">
+</picture>
 
 ### Recently updated projects
 
