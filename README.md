@@ -5,13 +5,13 @@
 
 | Repositories | Active | Stars | Forks |
 | ---: | ---: | ---: | ---: |
-| 112 | 112 | 226 | 85 |
+| 112 | 112 | 226 | 83 |
 
 ### Last 12 months
 
 | Commits | Pull requests | Reviews | Issues |
 | ---: | ---: | ---: | ---: |
-| 2477 | 376 | 1152 | 0 |
+| 2496 | 379 | 1171 | 0 |
 
 **Languages:** JavaScript 58% · CSS 11% · Python 10% · Elixir 9% · HTML 4% · Emacs Lisp 1%
 
@@ -43,5 +43,5 @@
 | [mini-meme.el](https://github.com/erickgnavar/mini-meme.el) | 0 | Emacs Lisp | 2026-08-08 |
 | [personal-site](https://github.com/erickgnavar/personal-site) | 0 | HTML | 2026-07-15 |
 
-_Last updated 2026-08-14 UTC._
+_Last updated 2026-08-15 UTC._
 <!-- STATS:END -->
