@@ -11,7 +11,7 @@
 
 | Commits | Pull requests | Reviews | Issues |
 | ---: | ---: | ---: | ---: |
-| 2496 | 379 | 1171 | 0 |
+| 2502 | 379 | 1171 | 0 |
 
 **Languages:** JavaScript 58% · CSS 11% · Python 10% · Elixir 9% · HTML 4% · Emacs Lisp 1%
 
@@ -37,11 +37,11 @@
 
 | Repository | Stars | Language | Updated |
 | --- | ---: | --- | --- |
-| [dotfiles](https://github.com/erickgnavar/dotfiles) | 25 | Shell | 2026-08-13 |
+| [dotfiles](https://github.com/erickgnavar/dotfiles) | 25 | Shell | 2026-08-15 |
 | [github-profile-readme-stats](https://github.com/erickgnavar/github-profile-readme-stats) | 0 | Python | 2026-08-10 |
 | [emacs-config](https://github.com/erickgnavar/emacs-config) | 0 | HTML | 2026-08-08 |
 | [mini-meme.el](https://github.com/erickgnavar/mini-meme.el) | 0 | Emacs Lisp | 2026-08-08 |
 | [personal-site](https://github.com/erickgnavar/personal-site) | 0 | HTML | 2026-07-15 |
 
-_Last updated 2026-08-15 UTC._
+_Last updated 2026-08-16 UTC._
 <!-- STATS:END -->
