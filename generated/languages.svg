@@ -12,14 +12,14 @@
   <rect class="background" x="0.5" y="0.5" width="799" height="359" rx="10" />
   <text class="title" x="28" y="38">Language usage trends</text>
   <text class="muted" x="772" y="38" text-anchor="end">30-day baseline collecting</text>
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#3178c6" stroke-width="30" stroke-dasharray="337.70 240.35" stroke-dashoffset="-0.00" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#a855f7" stroke-width="30" stroke-dasharray="67.50 510.55" stroke-dashoffset="-337.70" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="60.61 517.44" stroke-dashoffset="-405.21" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#f59e0b" stroke-width="30" stroke-dasharray="57.67 520.38" stroke-dashoffset="-465.82" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#ef4444" stroke-width="30" stroke-dasharray="26.66 551.40" stroke-dashoffset="-523.49" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#06b6d4" stroke-width="30" stroke-dasharray="7.47 570.58" stroke-dashoffset="-550.14" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#ec4899" stroke-width="30" stroke-dasharray="3.99 574.07" stroke-dashoffset="-557.62" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#64748b" stroke-width="30" stroke-dasharray="16.45 561.60" stroke-dashoffset="-561.60" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#3178c6" stroke-width="30" stroke-dasharray="337.58 240.48" stroke-dashoffset="-0.00" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#a855f7" stroke-width="30" stroke-dasharray="67.48 510.58" stroke-dashoffset="-337.58" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="60.59 517.46" stroke-dashoffset="-405.05" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#f59e0b" stroke-width="30" stroke-dasharray="57.65 520.41" stroke-dashoffset="-465.64" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#ef4444" stroke-width="30" stroke-dasharray="26.65 551.41" stroke-dashoffset="-523.29" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#06b6d4" stroke-width="30" stroke-dasharray="7.47 570.58" stroke-dashoffset="-549.94" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#ec4899" stroke-width="30" stroke-dasharray="3.99 574.07" stroke-dashoffset="-557.41" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#64748b" stroke-width="30" stroke-dasharray="16.66 561.40" stroke-dashoffset="-561.40" transform="rotate(-90 190 190)" />
   <circle class="background" cx="190" cy="190" r="66" stroke="none" />
   <text class="value" x="190" y="186" text-anchor="middle">Languages</text>
   <text class="muted" x="190" y="207" text-anchor="middle">8 shown</text>
@@ -42,10 +42,10 @@
   <text class="label" x="592" y="216">Emacs Lisp</text>
   <text class="muted" x="592" y="235">1.3%</text>
   <rect x="365" y="262" width="12" height="12" rx="2" fill="#ec4899" />
-  <text class="label" x="387" y="274">Swift</text>
+  <text class="label" x="387" y="274">Shell</text>
   <text class="muted" x="387" y="293">0.7%</text>
   <rect x="570" y="262" width="12" height="12" rx="2" fill="#64748b" />
   <text class="label" x="592" y="274">Other</text>
-  <text class="muted" x="592" y="293">2.8%</text>
+  <text class="muted" x="592" y="293">2.9%</text>
   <text class="muted" x="28" y="338">Percentage-point change in GitHub-detected bytes over at least 30 days</text>
 </svg>
