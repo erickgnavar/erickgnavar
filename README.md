@@ -5,13 +5,13 @@
 
 | Repositories | Active | Stars | Forks |
 | ---: | ---: | ---: | ---: |
-| 112 | 112 | 226 | 83 |
+| 112 | 112 | 227 | 83 |
 
 ### Last 12 months
 
 | Commits | Pull requests | Reviews | Issues |
 | ---: | ---: | ---: | ---: |
-| 2666 | 384 | 1222 | 0 |
+| 2671 | 388 | 1252 | 0 |
 
 **Languages:** JavaScript 58% · CSS 11% · Python 10% · Elixir 10% · HTML 4% · Emacs Lisp 1%
 
@@ -43,5 +43,5 @@
 | [github-profile-readme-stats](https://github.com/erickgnavar/github-profile-readme-stats) | 0 | Python | 2026-08-10 |
 | [emacs-config](https://github.com/erickgnavar/emacs-config) | 0 | HTML | 2026-08-08 |
 
-_Last updated 2026-08-24 UTC._
+_Last updated 2026-08-25 UTC._
 <!-- STATS:END -->
