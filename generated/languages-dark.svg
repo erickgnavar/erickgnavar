@@ -18,8 +18,8 @@
   <circle cx="190" cy="190" r="92" fill="none" stroke="#f59e0b" stroke-width="30" stroke-dasharray="58.30 519.75" stroke-dashoffset="-464.70" transform="rotate(-90 190 190)" />
   <circle cx="190" cy="190" r="92" fill="none" stroke="#ef4444" stroke-width="30" stroke-dasharray="26.59 551.46" stroke-dashoffset="-523.00" transform="rotate(-90 190 190)" />
   <circle cx="190" cy="190" r="92" fill="none" stroke="#06b6d4" stroke-width="30" stroke-dasharray="7.46 570.60" stroke-dashoffset="-549.59" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#ec4899" stroke-width="30" stroke-dasharray="4.19 573.86" stroke-dashoffset="-557.05" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#64748b" stroke-width="30" stroke-dasharray="16.81 561.24" stroke-dashoffset="-561.24" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#ec4899" stroke-width="30" stroke-dasharray="4.19 573.86" stroke-dashoffset="-557.04" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#64748b" stroke-width="30" stroke-dasharray="16.82 561.24" stroke-dashoffset="-561.24" transform="rotate(-90 190 190)" />
   <circle class="background" cx="190" cy="190" r="66" stroke="none" />
   <text class="value" x="190" y="186" text-anchor="middle">Languages</text>
   <text class="muted" x="190" y="207" text-anchor="middle">8 shown</text>

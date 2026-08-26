@@ -11,7 +11,7 @@
 
 | Commits | Pull requests | Reviews | Issues |
 | ---: | ---: | ---: | ---: |
-| 2671 | 388 | 1252 | 0 |
+| 2680 | 392 | 1261 | 0 |
 
 **Languages:** JavaScript 58% · CSS 11% · Python 10% · Elixir 10% · HTML 4% · Emacs Lisp 1%
 
@@ -37,11 +37,11 @@
 
 | Repository | Stars | Language | Updated |
 | --- | ---: | --- | --- |
-| [dotfiles](https://github.com/erickgnavar/dotfiles) | 25 | Shell | 2026-08-23 |
+| [dotfiles](https://github.com/erickgnavar/dotfiles) | 25 | Shell | 2026-08-25 |
 | [sanito](https://github.com/erickgnavar/sanito) | 3 | Elixir | 2026-08-21 |
 | [exercism](https://github.com/erickgnavar/exercism) | 0 | Haskell | 2026-08-20 |
 | [github-profile-readme-stats](https://github.com/erickgnavar/github-profile-readme-stats) | 0 | Python | 2026-08-10 |
 | [emacs-config](https://github.com/erickgnavar/emacs-config) | 0 | HTML | 2026-08-08 |
 
-_Last updated 2026-08-25 UTC._
+_Last updated 2026-08-26 UTC._
 <!-- STATS:END -->
