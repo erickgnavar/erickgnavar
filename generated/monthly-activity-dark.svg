@@ -12,40 +12,40 @@
   <rect class="background" x="0.5" y="0.5" width="799" height="309" rx="10" />
   <text class="title" x="28" y="38">Monthly contributions</text>
   <line class="grid" x1="58" y1="260" x2="770" y2="260" />
-  <rect x="70" y="223.6" width="34" height="36.4" rx="4" fill="#2f81f7"><title>2025-09: 139 contributions</title></rect>
-  <text class="value" x="87.0" y="216.6" text-anchor="middle">139</text>
+  <rect x="70" y="224.4" width="34" height="35.6" rx="4" fill="#2f81f7"><title>2025-09: 139 contributions</title></rect>
+  <text class="value" x="87.0" y="217.4" text-anchor="middle">139</text>
   <text class="muted" x="87.0" y="282" text-anchor="middle">Sep</text>
-  <rect x="129" y="218.6" width="34" height="41.4" rx="4" fill="#2f81f7"><title>2025-10: 158 contributions</title></rect>
-  <text class="value" x="146.0" y="211.6" text-anchor="middle">158</text>
+  <rect x="129" y="219.5" width="34" height="40.5" rx="4" fill="#2f81f7"><title>2025-10: 158 contributions</title></rect>
+  <text class="value" x="146.0" y="212.5" text-anchor="middle">158</text>
   <text class="muted" x="146.0" y="282" text-anchor="middle">Oct</text>
-  <rect x="188" y="216.2" width="34" height="43.8" rx="4" fill="#2f81f7"><title>2025-11: 167 contributions</title></rect>
-  <text class="value" x="205.0" y="209.2" text-anchor="middle">167</text>
+  <rect x="188" y="217.2" width="34" height="42.8" rx="4" fill="#2f81f7"><title>2025-11: 167 contributions</title></rect>
+  <text class="value" x="205.0" y="210.2" text-anchor="middle">167</text>
   <text class="muted" x="205.0" y="282" text-anchor="middle">Nov</text>
-  <rect x="247" y="219.6" width="34" height="40.4" rx="4" fill="#2f81f7"><title>2025-12: 154 contributions</title></rect>
-  <text class="value" x="264.0" y="212.6" text-anchor="middle">154</text>
+  <rect x="247" y="220.5" width="34" height="39.5" rx="4" fill="#2f81f7"><title>2025-12: 154 contributions</title></rect>
+  <text class="value" x="264.0" y="213.5" text-anchor="middle">154</text>
   <text class="muted" x="264.0" y="282" text-anchor="middle">Dec</text>
-  <rect x="306" y="211.8" width="34" height="48.2" rx="4" fill="#2f81f7"><title>2026-01: 184 contributions</title></rect>
-  <text class="value" x="323.0" y="204.8" text-anchor="middle">184</text>
+  <rect x="306" y="212.8" width="34" height="47.2" rx="4" fill="#2f81f7"><title>2026-01: 184 contributions</title></rect>
+  <text class="value" x="323.0" y="205.8" text-anchor="middle">184</text>
   <text class="muted" x="323.0" y="282" text-anchor="middle">Jan</text>
-  <rect x="365" y="202.3" width="34" height="57.7" rx="4" fill="#2f81f7"><title>2026-02: 220 contributions</title></rect>
-  <text class="value" x="382.0" y="195.3" text-anchor="middle">220</text>
+  <rect x="365" y="203.6" width="34" height="56.4" rx="4" fill="#2f81f7"><title>2026-02: 220 contributions</title></rect>
+  <text class="value" x="382.0" y="196.6" text-anchor="middle">220</text>
   <text class="muted" x="382.0" y="282" text-anchor="middle">Feb</text>
-  <rect x="424" y="97.5" width="34" height="162.5" rx="4" fill="#2f81f7"><title>2026-03: 620 contributions</title></rect>
-  <text class="value" x="441.0" y="90.5" text-anchor="middle">620</text>
+  <rect x="424" y="101.0" width="34" height="159.0" rx="4" fill="#2f81f7"><title>2026-03: 620 contributions</title></rect>
+  <text class="value" x="441.0" y="94.0" text-anchor="middle">620</text>
   <text class="muted" x="441.0" y="282" text-anchor="middle">Mar</text>
-  <rect x="483" y="137.1" width="34" height="122.9" rx="4" fill="#2f81f7"><title>2026-04: 469 contributions</title></rect>
-  <text class="value" x="500.0" y="130.1" text-anchor="middle">469</text>
+  <rect x="483" y="139.7" width="34" height="120.3" rx="4" fill="#2f81f7"><title>2026-04: 469 contributions</title></rect>
+  <text class="value" x="500.0" y="132.7" text-anchor="middle">469</text>
   <text class="muted" x="500.0" y="282" text-anchor="middle">Apr</text>
-  <rect x="542" y="180.1" width="34" height="79.9" rx="4" fill="#2f81f7"><title>2026-05: 305 contributions</title></rect>
-  <text class="value" x="559.0" y="173.1" text-anchor="middle">305</text>
+  <rect x="542" y="181.8" width="34" height="78.2" rx="4" fill="#2f81f7"><title>2026-05: 305 contributions</title></rect>
+  <text class="value" x="559.0" y="174.8" text-anchor="middle">305</text>
   <text class="muted" x="559.0" y="282" text-anchor="middle">May</text>
-  <rect x="601" y="107.5" width="34" height="152.5" rx="4" fill="#2f81f7"><title>2026-06: 582 contributions</title></rect>
-  <text class="value" x="618.0" y="100.5" text-anchor="middle">582</text>
+  <rect x="601" y="110.8" width="34" height="149.2" rx="4" fill="#2f81f7"><title>2026-06: 582 contributions</title></rect>
+  <text class="value" x="618.0" y="103.8" text-anchor="middle">582</text>
   <text class="muted" x="618.0" y="282" text-anchor="middle">Jun</text>
-  <rect x="660" y="80.2" width="34" height="179.8" rx="4" fill="#2f81f7"><title>2026-07: 686 contributions</title></rect>
-  <text class="value" x="677.0" y="73.2" text-anchor="middle">686</text>
+  <rect x="660" y="84.1" width="34" height="175.9" rx="4" fill="#2f81f7"><title>2026-07: 686 contributions</title></rect>
+  <text class="value" x="677.0" y="77.1" text-anchor="middle">686</text>
   <text class="muted" x="677.0" y="282" text-anchor="middle">Jul</text>
-  <rect x="719" y="70.0" width="34" height="190.0" rx="4" fill="#2f81f7"><title>2026-08: 725 contributions</title></rect>
-  <text class="value" x="736.0" y="63.0" text-anchor="middle">725</text>
+  <rect x="719" y="70.0" width="34" height="190.0" rx="4" fill="#2f81f7"><title>2026-08: 741 contributions</title></rect>
+  <text class="value" x="736.0" y="63.0" text-anchor="middle">741</text>
   <text class="muted" x="736.0" y="282" text-anchor="middle">Aug</text>
 </svg>
