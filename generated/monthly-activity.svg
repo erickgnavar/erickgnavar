@@ -45,7 +45,7 @@
   <rect x="660" y="70.0" width="34" height="190.0" rx="4" fill="#2f81f7"><title>2026-08: 815 contributions</title></rect>
   <text class="value" x="677.0" y="63.0" text-anchor="middle">815</text>
   <text class="muted" x="677.0" y="282" text-anchor="middle">Aug</text>
-  <rect x="719" y="259.8" width="34" height="0.2" rx="4" fill="#2f81f7"><title>2026-09: 1 contributions</title></rect>
-  <text class="value" x="736.0" y="252.8" text-anchor="middle">1</text>
+  <rect x="719" y="255.8" width="34" height="4.2" rx="4" fill="#2f81f7"><title>2026-09: 18 contributions</title></rect>
+  <text class="value" x="736.0" y="248.8" text-anchor="middle">18</text>
   <text class="muted" x="736.0" y="282" text-anchor="middle">Sep</text>
 </svg>
