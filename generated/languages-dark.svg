@@ -11,7 +11,7 @@
   </style>
   <rect class="background" x="0.5" y="0.5" width="799" height="359" rx="10" />
   <text class="title" x="28" y="38">Language usage trends</text>
-  <text class="muted" x="772" y="38" text-anchor="end">30-day baseline collecting</text>
+  <text class="muted" x="772" y="38" text-anchor="end">Change since 2026-08-09</text>
   <circle cx="190" cy="190" r="92" fill="none" stroke="#3178c6" stroke-width="30" stroke-dasharray="336.11 241.95" stroke-dashoffset="-0.00" transform="rotate(-90 190 190)" />
   <circle cx="190" cy="190" r="92" fill="none" stroke="#a855f7" stroke-width="30" stroke-dasharray="67.18 510.87" stroke-dashoffset="-336.11" transform="rotate(-90 190 190)" />
   <circle cx="190" cy="190" r="92" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="61.42 516.63" stroke-dashoffset="-403.29" transform="rotate(-90 190 190)" />
@@ -25,27 +25,27 @@
   <text class="muted" x="190" y="207" text-anchor="middle">8 shown</text>
   <rect x="365" y="88" width="12" height="12" rx="2" fill="#3178c6" />
   <text class="label" x="387" y="100">JavaScript</text>
-  <text class="muted" x="387" y="119">58.1%</text>
+  <text class="muted" x="387" y="119">58.1% · ▼ 0.3 pp</text>
   <rect x="570" y="88" width="12" height="12" rx="2" fill="#a855f7" />
   <text class="label" x="592" y="100">CSS</text>
-  <text class="muted" x="592" y="119">11.6%</text>
+  <text class="muted" x="592" y="119">11.6% · ▼ 0.1 pp</text>
   <rect x="365" y="146" width="12" height="12" rx="2" fill="#22c55e" />
   <text class="label" x="387" y="158">Python</text>
-  <text class="muted" x="387" y="177">10.6%</text>
+  <text class="muted" x="387" y="177">10.6% · ▲ 0.1 pp</text>
   <rect x="570" y="146" width="12" height="12" rx="2" fill="#f59e0b" />
   <text class="label" x="592" y="158">Elixir</text>
-  <text class="muted" x="592" y="177">10.1%</text>
+  <text class="muted" x="592" y="177">10.1% · ▲ 0.1 pp</text>
   <rect x="365" y="204" width="12" height="12" rx="2" fill="#ef4444" />
   <text class="label" x="387" y="216">HTML</text>
-  <text class="muted" x="387" y="235">4.6%</text>
+  <text class="muted" x="387" y="235">4.6% · • 0.0 pp</text>
   <rect x="570" y="204" width="12" height="12" rx="2" fill="#06b6d4" />
   <text class="label" x="592" y="216">Emacs Lisp</text>
-  <text class="muted" x="592" y="235">1.3%</text>
+  <text class="muted" x="592" y="235">1.3% · • 0.0 pp</text>
   <rect x="365" y="262" width="12" height="12" rx="2" fill="#ec4899" />
   <text class="label" x="387" y="274">Shell</text>
-  <text class="muted" x="387" y="293">0.8%</text>
+  <text class="muted" x="387" y="293">0.8% · ▲ 0.2 pp</text>
   <rect x="570" y="262" width="12" height="12" rx="2" fill="#64748b" />
   <text class="label" x="592" y="274">Other</text>
-  <text class="muted" x="592" y="293">2.9%</text>
+  <text class="muted" x="592" y="293">2.9% · • 0.0 pp</text>
   <text class="muted" x="28" y="338">Percentage-point change in GitHub-detected bytes over at least 30 days</text>
 </svg>
