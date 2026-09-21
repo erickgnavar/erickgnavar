@@ -32,9 +32,9 @@
   <text class="value" x="674" y="163">★ 25 ⑂ 1</text>
   <text class="label" x="28" y="201">cloak-mode</text>
   <rect class="empty" x="245" y="188" width="410" height="16" rx="4" />
-  <rect x="245" y="188" width="119.6" height="16" rx="4" fill="#2f81f7" />
-  <rect x="364.6" y="188" width="5.7" height="16" rx="4" fill="#a855f7" />
-  <text class="value" x="674" y="201">★ 21 ⑂ 1</text>
+  <rect x="245" y="188" width="125.3" height="16" rx="4" fill="#2f81f7" />
+  <rect x="370.3" y="188" width="5.7" height="16" rx="4" fill="#a855f7" />
+  <text class="value" x="674" y="201">★ 22 ⑂ 1</text>
   <text class="label" x="28" y="239">flymake-sqlfluff</text>
   <rect class="empty" x="245" y="226" width="410" height="16" rx="4" />
   <rect x="245" y="226" width="91.1" height="16" rx="4" fill="#2f81f7" />
