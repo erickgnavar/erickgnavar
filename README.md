@@ -5,13 +5,13 @@
 
 | Repositories | Active | Stars | Forks |
 | ---: | ---: | ---: | ---: |
-| 113 | 113 | 228 | 83 |
+| 113 | 113 | 228 | 82 |
 
 ### Last 12 months
 
 | Commits | Pull requests | Reviews | Issues |
 | ---: | ---: | ---: | ---: |
-| 3084 | 518 | 1572 | 0 |
+| 3078 | 519 | 1601 | 0 |
 
 **Languages:** JavaScript 57% · CSS 11% · Python 10% · Elixir 9% · HTML 4% · Emacs Lisp 1%
 
@@ -43,5 +43,5 @@
 | [exercism](https://github.com/erickgnavar/exercism) | 0 | Haskell | 2026-08-20 |
 | [github-profile-readme-stats](https://github.com/erickgnavar/github-profile-readme-stats) | 0 | Python | 2026-08-10 |
 
-_Last updated 2026-10-08 UTC._
+_Last updated 2026-10-09 UTC._
 <!-- STATS:END -->
