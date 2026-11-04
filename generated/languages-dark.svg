@@ -11,27 +11,27 @@
   </style>
   <rect class="background" x="0.5" y="0.5" width="799" height="359" rx="10" />
   <text class="title" x="28" y="38">Language usage trends</text>
-  <text class="muted" x="772" y="38" text-anchor="end">Change since 2026-10-04</text>
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#3178c6" stroke-width="30" stroke-dasharray="327.39 250.66" stroke-dashoffset="-0.00" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#a855f7" stroke-width="30" stroke-dasharray="65.24 512.82" stroke-dashoffset="-327.39" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="62.20 515.85" stroke-dashoffset="-392.62" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#f59e0b" stroke-width="30" stroke-dasharray="56.57 521.48" stroke-dashoffset="-454.83" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#ef4444" stroke-width="30" stroke-dasharray="25.80 552.25" stroke-dashoffset="-511.40" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#06b6d4" stroke-width="30" stroke-dasharray="7.27 570.79" stroke-dashoffset="-537.20" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#ec4899" stroke-width="30" stroke-dasharray="6.22 571.83" stroke-dashoffset="-544.47" transform="rotate(-90 190 190)" />
-  <circle cx="190" cy="190" r="92" fill="none" stroke="#64748b" stroke-width="30" stroke-dasharray="27.36 550.69" stroke-dashoffset="-550.69" transform="rotate(-90 190 190)" />
+  <text class="muted" x="772" y="38" text-anchor="end">Change since 2026-10-05</text>
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#3178c6" stroke-width="30" stroke-dasharray="327.13 250.92" stroke-dashoffset="-0.00" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#a855f7" stroke-width="30" stroke-dasharray="65.18 512.87" stroke-dashoffset="-327.13" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="62.61 515.45" stroke-dashoffset="-392.32" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#f59e0b" stroke-width="30" stroke-dasharray="56.53 521.53" stroke-dashoffset="-454.93" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#ef4444" stroke-width="30" stroke-dasharray="25.78 552.27" stroke-dashoffset="-511.45" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#06b6d4" stroke-width="30" stroke-dasharray="7.26 570.79" stroke-dashoffset="-537.24" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#ec4899" stroke-width="30" stroke-dasharray="6.22 571.83" stroke-dashoffset="-544.50" transform="rotate(-90 190 190)" />
+  <circle cx="190" cy="190" r="92" fill="none" stroke="#64748b" stroke-width="30" stroke-dasharray="27.34 550.72" stroke-dashoffset="-550.72" transform="rotate(-90 190 190)" />
   <circle class="background" cx="190" cy="190" r="66" stroke="none" />
   <text class="value" x="190" y="186" text-anchor="middle">Languages</text>
   <text class="muted" x="190" y="207" text-anchor="middle">8 shown</text>
   <rect x="365" y="88" width="12" height="12" rx="2" fill="#3178c6" />
   <text class="label" x="387" y="100">JavaScript</text>
-  <text class="muted" x="387" y="119">56.6% · ▼ 1.4 pp</text>
+  <text class="muted" x="387" y="119">56.6% · ▼ 1.5 pp</text>
   <rect x="570" y="88" width="12" height="12" rx="2" fill="#a855f7" />
   <text class="label" x="592" y="100">CSS</text>
   <text class="muted" x="592" y="119">11.3% · ▼ 0.3 pp</text>
   <rect x="365" y="146" width="12" height="12" rx="2" fill="#22c55e" />
   <text class="label" x="387" y="158">Python</text>
-  <text class="muted" x="387" y="177">10.8% · ▲ 0.1 pp</text>
+  <text class="muted" x="387" y="177">10.8% · ▲ 0.2 pp</text>
   <rect x="570" y="146" width="12" height="12" rx="2" fill="#f59e0b" />
   <text class="label" x="592" y="158">Elixir</text>
   <text class="muted" x="592" y="177">9.8% · ▼ 0.3 pp</text>
