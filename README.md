@@ -11,9 +11,9 @@
 
 | Commits | Pull requests | Reviews | Issues |
 | ---: | ---: | ---: | ---: |
-| 3361 | 583 | 1768 | 0 |
+| 3362 | 582 | 1782 | 0 |
 
-**Languages:** JavaScript 56% · Python 11% · CSS 11% · Elixir 9% · HTML 4% · TypeScript 1%
+**Languages:** JavaScript 55% · Python 11% · CSS 11% · Elixir 9% · HTML 4% · TypeScript 1%
 
 ### Charts
 
@@ -37,11 +37,11 @@
 
 | Repository | Stars | Language | Updated |
 | --- | ---: | --- | --- |
-| [dotfiles](https://github.com/erickgnavar/dotfiles) | 25 | TypeScript | 2026-11-11 |
+| [dotfiles](https://github.com/erickgnavar/dotfiles) | 25 | Python | 2026-11-11 |
 | [naoshi-test](https://github.com/erickgnavar/naoshi-test) | 0 | JavaScript | 2026-10-05 |
 | [sanito](https://github.com/erickgnavar/sanito) | 3 | Elixir | 2026-08-21 |
 | [exercism](https://github.com/erickgnavar/exercism) | 0 | Haskell | 2026-08-20 |
 | [github-profile-readme-stats](https://github.com/erickgnavar/github-profile-readme-stats) | 0 | Python | 2026-08-10 |
 
-_Last updated 2026-11-11 UTC._
+_Last updated 2026-11-12 UTC._
 <!-- STATS:END -->
